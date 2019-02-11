@@ -1,0 +1,61 @@
+<style>
+/*body {
+  background-color: #ffffb3;
+This code was not working in the CSS sheet so I have put this code in my html file}*/
+
+h1
+{
+  font-family: "Times New Roman";
+  font-size: 250%;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
+h3
+{
+  font-family: "Times New Roman";
+  font-size: 100%;
+  font-weight: bold;
+  color: #000000;
+}
+
+p
+{
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 100%;
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+}
+
+h2
+{
+  font-family: "Times New Roman";
+  font-size: 150%;
+  font-weight: bold;
+  text-align: Left;
+  color: #000000;
+}
+
+#education th,td {
+   border-collapse: collapse;
+   border: 1px solid black;
+}
+
+#experience
+{
+  font-family: "Times New Roman";
+  font-size: 100%;
+  text-align: Left;
+  color: #000000;
+}
+
+#references
+{
+  font-family: "Times New Roman";
+  font-size: 100%;
+  text-align: Left;
+  color: #000000;
+}
